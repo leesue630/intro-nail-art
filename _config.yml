@@ -18,21 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "98-389: Intro to Nail Art"
-email: suel2@andrew.cmu.edu
+title: "98-389: Introduction to Nail Art"
+email: ritaz@andrew.cmu.edu, suel2@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Location: Doherty Hall 1112 on Wednesdays, 7-7:50pm
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://leesue630.github.io/intro-nail-art" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  leesue630
+# twitter_username: jekyllrb
+# github_username:  leesue630
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Server Config options
+livereload: true     # You no longer need to include --livereload
 
 # Exclude from processing.
 # The following items will not be processed, by default.
