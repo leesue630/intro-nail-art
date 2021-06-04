@@ -1,8 +1,8 @@
 ---
-title: Frequently Asked Questions
+title: FAQs 🙋‍♀️🙋‍♂️
 ---
 
-### What's 98-389 all about? 💅
+### What's 98-389 all about?
 
 Together, we will dive into:
 - not only how to paint various nail art designs,
