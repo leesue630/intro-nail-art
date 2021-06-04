@@ -80,5 +80,5 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: ✨💅✨
-  # url: "#top"
+- title: Back to Top
+  url: "#top"
