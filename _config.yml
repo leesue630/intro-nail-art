@@ -1,56 +1,84 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Set theme
+remote_theme: daviddarnes/alembic@main
 
-title: "98-389: Introduction to Nail Art"
-email: ritaz@andrew.cmu.edu, suel2@andrew.cmu.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Location: Doherty Hall 1112 on Wednesdays, 7-7:50pm
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://leesue630.github.io/intro-nail-art" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  leesue630
+# 1. File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
 
-# Build settings
-theme: minima
+# 2. Set plugins
 plugins:
-  - jekyll-feed
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
 
-# Server Config options
-livereload: true     # You no longer need to include --livereload
+# 3. Gem settings
+paginate: 5
+paginate_path: class-plans/page:num
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# 4. Jekyll settings
+permalink: pretty
+# timezone: America/New_York
+
+# 5. Collections
+collections:
+  posts:
+    title: Class Plans
+    output: true
+    description: "Find the class plans and notes for each class here!"
+
+# 6. Jekyll collection settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+
+# 7. Site settings
+encoding: utf-8
+title: '98-389: Introduction to Nail Art'
+description: 'A CMU StuCo that brings self-expression right to your fingertips. 💅'
+logo: "/assets/logos/nail-tartan-logo.png"
+url: 'https://leesue630.github.io/intro-nail-art'
+baseurl: ''
+repo: "https://github.com/leesue630/intro-nail-art"
+
+# 8. Site favicons
+favicons:
+  180: '/assets/logos/nail-tartan-logo.png'
+
+# 9. Header nav
+navigation_header:
+- title: "Overview"
+  url: /
+- title: "Class Plans"
+  url: /class-plans/
+- title: Showcase
+  url: /showcase/
+- title: Resources
+  url: /resources/
+- title: FAQ
+  url: /faq/
+- title: 🔎
+  url: /search/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
