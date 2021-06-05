@@ -1,5 +1,8 @@
 ---
-title: Syllabus 🎨
+# title: Syllabus
+feature_image: "https://images.pexels.com/photos/3609620/pexels-photo-3609620.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+feature_text: |
+  ## Syllabus 🎨
 ---
 
 ### Schedule
