@@ -22,7 +22,7 @@ plugins:
 
 # 3. Gem settings
 paginate: 5
-paginate_path: class-plans/page:num
+paginate_path: blog/page:num
 
 # 4. Jekyll settings
 permalink: pretty
@@ -31,9 +31,9 @@ permalink: pretty
 # 5. Collections
 collections:
   posts:
-    title: Class Plans
+    title: Posts
     output: true
-    description: "Find the class plans and notes for each class here!"
+    description: "Find notes for each class here!"
 
 # 6. Jekyll collection settings
 defaults:
@@ -67,8 +67,8 @@ favicons:
 navigation_header:
 - title: "Overview"
   url: /
-- title: "Class Plans"
-  url: /class-plans/
+- title: "Syllabus"
+  url: /syllabus/
 - title: Showcase
   url: /showcase/
 - title: Resources
