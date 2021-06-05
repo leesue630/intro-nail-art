@@ -5,10 +5,9 @@ feature_text: |
   ## Resources 🔗
 ---
 
-- Nail polishes brands:
-  - Essie
-- Top coats
-- Base coats
+- [Nail polishes](_posts/2021-09-22-brands.md)
+  - Top coats
+  - Base coats
 - Nail art brushes
 - Dotting tool
   - nail dotter
