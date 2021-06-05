@@ -1,8 +1,8 @@
 ---
-title: "Nail Painting 101"
+title: "Nail Art Influencers"
 categories:
-- basics
+- pop culture
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-nail painting 101
+french tips
