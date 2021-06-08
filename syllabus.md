@@ -5,7 +5,7 @@ feature_text: |
   ## Syllabus 🎨
 ---
 
-With nail art, self-expression is right at our fingertips. Together, we will dive into not only how to paint various nail art designs, but we will also discuss the origins of nail art and past nail art trends. Each week, we will learn and practice a new design technique. By the end of the course, you will have your very own nail salon right at home.
+Who's ready to paint? 🥳
 
 ### Schedule
 
@@ -24,16 +24,15 @@ With nail art, self-expression is right at our fingertips. Together, we will div
 
 ### Materials List
 
-For this course, students need:
+For this course, **you will need**:
 
 - two colors of nail polishes
-- top coat nail polish (optional, but recommended)
-- dotter (e.g. nail dotter tool, bobby pin, sewing pin)
-- makeup sponge
+- nail art brush
+- nail polish remover
 
-Students have the alternate option of paying a $5 course fee to be provided the above materials.
+Students have the **alternate option** of paying a **$5 course fee** in exchange for the being provided the above materials.
 
-(See our recommendations [here](_posts/2021-09-22-brands.md)!)
+For a more comprehensive breakdown of these materials, product recommendations, and a whole lot of other optional (but fun) materials, see this [post](_posts/2021-09-01-materials.md).
 
 ---
 
@@ -63,6 +62,8 @@ Students will create their own nail art design for the final project. This proje
 
 ### Attendance Policies
 
-- Students are expected to attend every class. Students that have more than 2 unexcused absences will automatically fail the course. This is a strict policy. Students with legitimate reasons to miss class should inform the instructors in advance as soon as possible.
-- We will take attendance through in-person attendance.
-- Religious observance, illness, job interviews, etc are valid excuses for an excused absence.
+Students are expected to attend every class. Students that have more than 2 unexcused absences will automatically fail the course. This is a strict policy. Students with legitimate reasons to miss class should inform the instructors in advance as soon as possible.
+
+We will take attendance through in-person attendance.
+
+Religious observance, illness, job interviews, etc. are valid excuses for an excused absence.
