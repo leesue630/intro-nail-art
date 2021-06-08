@@ -19,6 +19,7 @@ Nail Care:
 Nail Art: Tools
 
 - Nail Art Brushes
+- Nail Dotter (optional; alternatives include sewing/bobby pins)
 
 Household Items (provided by course):
 
