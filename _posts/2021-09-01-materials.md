@@ -3,6 +3,7 @@ title: "Materials Breakdown"
 categories:
 - basics
 feature_image: "https://image.shutterstock.com/image-photo/concept-manicure-nail-polish-pedicure-260nw-1828377311.jpg"
+comments: true
 ---
 
 The world of nail art is a fun and expressive place. Here's a breakdown of what you'll need for this course and what you might want to excel at nail art beyond this course!
