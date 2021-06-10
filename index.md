@@ -14,7 +14,9 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | **Date** | **Main Lesson** | **Pot Pourri** |
 |------|-------------|------------|
 | Sep 1 | Nail Painting 101 | Origins of Nail Art |
-[]( | Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) | )
+{% comment %}
+| Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) |
+{% endcomment %}
 | Sep 8 | French Tips | Nail Care 101 |
 []( | Sep 8 | [French Tips](_posts/2021-09-08-french-tips.md) | [Nail Care 101](_posts/2021-10-13-nail-care.md) | )
 | Sep 15 | Flowers | Nail Art Influencers |
