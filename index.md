@@ -18,17 +18,29 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) |
 {% endcomment %}
 | Sep 8 | French Tips | Nail Care 101 |
-[]( | Sep 8 | [French Tips](_posts/2021-09-08-french-tips.md) | [Nail Care 101](_posts/2021-10-13-nail-care.md) | )
+{% comment %}
+| Sep 8 | [French Tips](_posts/2021-09-08-french-tips.md) | [Nail Care 101](_posts/2021-10-13-nail-care.md) | )
+{% endcomment %}
 | Sep 15 | Flowers | Nail Art Influencers |
-[]( | Sep 15 | [Flowers](_posts/2021-09-15-flowers.md) | [Nail Art Influencers](_posts/2021-09-08-influencers.md) | )
+{% comment %}
+| Sep 15 | [Flowers](_posts/2021-09-15-flowers.md) | [Nail Art Influencers](_posts/2021-09-08-influencers.md) | )
+{% endcomment %}
 | Sep 22 | Smiley Faces | Nail Art in Hollywood |
-[]( | Sep 22 | [Smiley Faces](_posts/2021-09-22-smiley-faces.md) | [Nail Art in Hollywood](_posts/2021-09-15-hollywood.md) | )
+{% comment %}
+| Sep 22 | [Smiley Faces](_posts/2021-09-22-smiley-faces.md) | [Nail Art in Hollywood](_posts/2021-09-15-hollywood.md) | )
+{% endcomment %}
 | Sep 29 | Geometry | Nail Polish Brands |
-[]( | Sep 29 | [Geometry](_posts/2021-09-29-geometry.md) | [Nail Polish Brands](_posts/2021-09-22-brands.md) | )
+{% comment %}
+| Sep 29 | [Geometry](_posts/2021-09-29-geometry.md) | [Nail Polish Brands](_posts/2021-09-22-brands.md) | )
+{% endcomment %}
 | Oct 6 | Ombre | Experimental Nail Art |
-[]( | Oct 6 | [Ombre](_posts/2021-10-06-ombre.md) | [Experimental Nail Art](_posts/2021-09-29-experimental-art.md) | )
+{% comment %}
+| Oct 6 | [Ombre](_posts/2021-10-06-ombre.md) | [Experimental Nail Art](_posts/2021-09-29-experimental-art.md) | )
+{% endcomment %}
 | Oct 13 | Tie-dye | Non-regular Types of Nail Polish |
-[]( | Oct 13 | [Tie-dye](_posts/2021-10-13-tie-dye.md) | [Non-regular Types of Nail Polish](_posts/2021-10-06-other-polishes.md) | )
+{% comment %}
+| Oct 13 | [Tie-dye](_posts/2021-10-13-tie-dye.md) | [Non-regular Types of Nail Polish](_posts/2021-10-06-other-polishes.md) | )
+{% endcomment %}
 | Oct 20 | Fina(i)ls | - |
 
 
