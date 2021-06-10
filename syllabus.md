@@ -5,20 +5,32 @@ feature_text: |
   ## Syllabus 🎨
 ---
 
-Who's ready to paint? 🥳
+With nail art, self-expression is right at our fingertips. 💅
+
+Together, we will not only dive into how to paint various nail art designs, but we will also discuss the origins of nail art and past nail art trends. 📈
+
+Each week, we will learn and practice a new design technique. By the end of the course, you will have your very own nail salon right at home. 💆‍♀️💆‍♂️
 
 ### Schedule
 
 | **Date** | **Main Lesson** | **Pot Pourri** |
 |------|-------------|------------|
-| Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) |
-| Sep 8 | [French Tips](_posts/2021-09-08-french-tips.md) | [Nail Art Influencers](_posts/2021-09-08-influencers.md) |
-| Sep 15 | [Flowers](_posts/2021-09-15-flowers.md) | [Nail Art in Hollywood](_posts/2021-09-15-hollywood.md) |
-| Sep 22 | [Smiley Faces](_posts/2021-09-22-smiley-faces.md) | [Nail Polish Brands](_posts/2021-09-22-brands.md) |
-| Sep 29 | [Geometry](_posts/2021-09-29-geometry.md) | [Experimental Nail Art](_posts/2021-09-29-experimental-art.md) |
-| Oct 6 | [Ombre](_posts/2021-10-06-ombre.md) | [Non-regular Types of Nail Polish](_posts/2021-10-06-other-polishes.md) |
-| Oct 13 | [Tie-dye](_posts/2021-10-13-tie-dye.md) | [Nail Care 101](_posts/2021-10-13-nail-care.md) |
+| Sep 1 | Nail Painting 101 | Origins of Nail Art |
+<!-- | Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) | -->
+| Sep 8 | French Tips | Nail Care 101 |
+<!-- | Sep 8 | [French Tips](_posts/2021-09-08-french-tips.md) | [Nail Care 101](_posts/2021-10-13-nail-care.md) | -->
+| Sep 15 | Flowers | Nail Art Influencers |
+<!-- | Sep 15 | [Flowers](_posts/2021-09-15-flowers.md) | [Nail Art Influencers](_posts/2021-09-08-influencers.md) | -->
+| Sep 22 | Smiley Faces | Nail Art in Hollywood |
+<!-- | Sep 22 | [Smiley Faces](_posts/2021-09-22-smiley-faces.md) | [Nail Art in Hollywood](_posts/2021-09-15-hollywood.md) | -->
+| Sep 29 | Geometry | Nail Polish Brands |
+<!-- | Sep 29 | [Geometry](_posts/2021-09-29-geometry.md) | [Nail Polish Brands](_posts/2021-09-22-brands.md) | -->
+| Oct 6 | Ombre | Experimental Nail Art |
+<!-- | Oct 6 | [Ombre](_posts/2021-10-06-ombre.md) | [Experimental Nail Art](_posts/2021-09-29-experimental-art.md) | -->
+| Oct 13 | Tie-dye | Non-regular Types of Nail Polish |
+<!-- | Oct 13 | [Tie-dye](_posts/2021-10-13-tie-dye.md) | [Non-regular Types of Nail Polish](_posts/2021-10-06-other-polishes.md) | -->
 | Oct 20 | Fina(i)ls | - |
+
 
 ---
 
@@ -30,7 +42,7 @@ For this course, **you will need**:
 - nail art brush
 - nail polish remover
 
-Students have the **alternate option** of paying a **$5 course fee** in exchange for the being provided the above materials.
+Students have the **alternate option** of paying a **$5 course fee** in exchange for being provided the above materials.
 
 For a more comprehensive breakdown of these materials, product recommendations, and a whole lot of other optional (but fun) materials, see this [post](_posts/2021-09-01-materials.md).
 

@@ -65,16 +65,12 @@ favicons:
 
 # 9. Header nav
 navigation_header:
-- title: "Overview"
-  url: /
 - title: "Syllabus"
-  url: /syllabus/
+  url: /
 - title: Showcase
   url: /showcase/
 - title: Resources
   url: /resources/
-- title: FAQ
-  url: /faq/
 - title: 🔎
   url: /search/
 
