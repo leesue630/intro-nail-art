@@ -3,7 +3,7 @@ title: "French Tips"
 categories:
 - basics
 - brush
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "https://image.shutterstock.com/image-photo/concept-manicure-nail-polish-pedicure-260nw-1828377311.jpg"
 ---
 
 french tips

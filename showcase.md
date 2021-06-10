@@ -5,8 +5,8 @@ feature_text: |
   ## Course Showcase 📸
 ---
 
-Here we will showcase student (and staff) nail art! Wooo! Stay posted :)
+We'll update this page throughout the course to showcase student (and staff) nail art! Stay posted :)
 
-Test Image:
+Placeholder Image:
 
 {% include figure.html image="/intro-nail-art/assets/showcase/test.jpg" caption="Test image with caption" width="300" height="300" %}
