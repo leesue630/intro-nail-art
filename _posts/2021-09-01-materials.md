@@ -89,6 +89,7 @@ Whether you heed these recommendations or not, please make sure you **research y
 - Most nail polish removers (a.k.a. acetone polish removers) found at your local drugstore or retail store will be effective at their job.
 - Consider buying non-acetone polish removers if you intend on frequently painting and cleaning your nails, as acetone can dry out your skin if used often. Acetone, however, is most effective at removing nail polish.
 - Read [here](https://www.self.com/story/to-acetone-or-not-the-healthie) for more.
+- For those feeling a little fancy, consider a "Cutex Twist & Scrub Sponge" or an "up&up dip-it". These are large jars into which you can insert your nail, twist it against plastic brushes, and emerge with a polish-free nail (similar to a car wash).
 
 {% include figure.html image="/intro-nail-art/assets/materials/nail-file.jpg" caption="Nail file" width="300" height="300" %}
 
