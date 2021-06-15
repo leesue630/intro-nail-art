@@ -6,10 +6,10 @@ feature_text: |
 ---
 
 - Nail Art YouTube Channels
-  - Simply Nailogical
-  - Cutepolish
-  - Nail Career Education
-  - LongHairPrettyNails
+  - [Simply Nailogical](https://www.youtube.com/user/simplynailogical)
+  - [Cutepolish](https://www.youtube.com/user/cutepolish)
+  - [Nail Career Education](https://www.youtube.com/channel/UCTldDNXS4GeChcmwm55mXYQ)
+  - [LongHairPrettyNails](https://www.youtube.com/user/00MarsReiko00)
 - Pinterest Boards
 - [Nail Art Influencers on Instagram](https://www.allure.com/story/nail-art-instagram-accounts-to-follow)
 - [The Ultimate Guide to Nail Art for Beginners](https://www.thecuriouslycreative.com/nail-art-for-beginners/) by The Curiously Creative
