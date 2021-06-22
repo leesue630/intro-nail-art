@@ -11,7 +11,7 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 
 ### Schedule
 
-| **Date** | **Main Lesson** | **Pot Pourri** |
+| **Date** | **Main Lesson** | **Potpourri** |
 |------|-------------|------------|
 | Sep 1 | Nail Painting 101 | Origins of Nail Art |
 | Sep 8 | French Tips | Nail Care 101 |
