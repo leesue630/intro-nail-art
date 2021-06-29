@@ -12,15 +12,15 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 ### Schedule
 
 | **Date** | **Main Lesson** | **Potpourri** |
-|------|-------------|------------|
-| Sep 1 | Nail Painting 101 | Origins of Nail Art |
-| Sep 8 | French Tips | Nail Care 101 |
-| Sep 15 | Flowers | Nail Art Influencers |
-| Sep 22 | Smiley Faces | Nail Art in Hollywood |
-| Sep 29 | Geometry | Nail Polish Brands |
-| Oct 6 | Ombre | Experimental Nail Art |
-| Oct 13 | Tie-dye | Non-regular Types of Nail Polish |
-| Oct 20 | Fina(i)ls | - |
+|----------|-----------------|---------------|
+| Sep 1    | Nail Painting 101 | Origins of Nail Art |
+| Sep 8    | French Tips | Nail Care 101 |
+| Sep 15   | Flowers | Nail Art Influencers |
+| Sep 22   | Smiley Faces | Nail Art in Pop Culture |
+| Sep 29   | Geometry | Nail Polish Brands |
+| Oct 6    | Ombre | Environmental Impact |
+| Oct 13   | Tie-dye | Non-regular Types of Nail Polish |
+| Oct 20   | Fina(i)ls | - |
 
 {% comment %}
 | Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) |
