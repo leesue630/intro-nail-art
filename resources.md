@@ -16,7 +16,7 @@ feature_text: |
   - [LongHairPrettyNails](https://www.youtube.com/user/00MarsReiko00)
 - Social Media
   - [Pinterest](https://www.pinterest.com)
-  - [r/nailart subreddit](https://www.reddit.com/r/NailArt/)
+  - [r/RedditLaqueristas subreddit](https://www.reddit.com/r/RedditLaqueristas/)
 - Articles
   - [Nail Art Influencers on Instagram](https://www.allure.com/story/nail-art-instagram-accounts-to-follow)
   - [The Ultimate Guide to Nail Art for Beginners](https://www.thecuriouslycreative.com/nail-art-for-beginners/) by The Curiously Creative
