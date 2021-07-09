@@ -9,26 +9,31 @@ With nail art, self-expression is right at our fingertips. 💅
 By the end of the course, you'll be able to set up your very own nail salon right at home. 💆‍♀️💆‍♂️
 Join us every Wednesday for a relaxing night of fun! 🤗
 
-### Who, What, Where, When?
+### By + For Who, Where, When?
 
-- **Instructors**: Rita Zhang (ritaz), Sue Lee (suel2)
-- **Students**: Anyone with at least one nail and a desire to learn!
-- **What**: Mini-1, August to mid-October
+- **By**: Rita Zhang (ritaz), Sue Lee (suel2)
+- **For**: Anyone with a desire to learn!
 - **Where**: Doherty 1112, In-person Expectation
 - **When**: Wednesdays, 7:00 - 7:50pm
 
 ### Schedule
 
-| **Date** | **Main Lesson** | **Potpourri** |
-|----------|-----------------|---------------|
-| Sep 1    | Nail Painting 101 | Origins of Nail Art |
-| Sep 8    | French Tips | Nail Care 101 |
-| Sep 15   | Flowers | Nail Art Influencers |
-| Sep 22   | Smiley Faces | Nail Art in Pop Culture |
-| Sep 29   | Geometry | Nail Polish Brands |
-| Oct 6    | Ombre | Environmental Impact |
-| Oct 13   | Tie-dye | Non-regular Types of Nail Polish |
-| Oct 20   | Fina(i)ls | - |
+| **Date** | **Main Lesson**         | **Potpourri** |
+|----------|-------------------------|---------------|
+| Sep 1    | Nail Painting 101       | Origins of Nail Art |
+| Sep 8    | French Tips             | Nail Care 101 |
+| Sep 15   | Flowers                 | Nail Art Influencers |
+| Sep 22   | Smiley Faces            | Nail Art in Pop Culture |
+| Sep 29   | Geometry                | Nail Polish Brands |
+| Oct 6    | Ombre                   | Environmental Impact |
+| Oct 13   | Mid-semester Exam       | Nail Biology |
+| Oct 20   | Stickers                | Pedicures |
+| Oct 27   | TBD                     | Gel Nail Polish |
+| Nov 3    | TBD                     | Acrylic Nail Polish |
+| Nov 10   | Tie-dye                 | Other Types of Nail Polish |
+| Nov 17   | Fina(i)l Workshop       | - |
+| Nov 24   | No class (Thanksgiving) | - |
+| Dec 1    | Fina(i)l Presentations  | - |
 
 {% comment %}
 | Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) |
