@@ -9,6 +9,14 @@ With nail art, self-expression is right at our fingertips. 💅
 By the end of the course, you'll be able to set up your very own nail salon right at home. 💆‍♀️💆‍♂️
 Join us every Wednesday for a relaxing night of fun! 🤗
 
+### Who, What, Where, When?
+
+**Instructors**: Rita Zhang (ritaz), Sue Lee (suel2)
+**Students**: Anyone with at least one nail and a desire to learn!
+**What**: Mini-1, August to mid-October
+**Where**: Doherty 1112, In-person Expectation
+**When**: Wednesdays, 7:00 - 7:50pm
+
 ### Schedule
 
 | **Date** | **Main Lesson** | **Potpourri** |
