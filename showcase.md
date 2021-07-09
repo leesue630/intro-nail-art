@@ -5,9 +5,7 @@ feature_text: |
   ## Course Showcase 📸
 ---
 
-We'll update this page throughout the course to showcase student (and staff) nail art! Stay posted :)
-
-Placeholder Image:
+A page dedicated to student (and staff) nail art excellence and creativity! Feel free to email us your nail art images to get added to this highly esteemed showcase 😊!
 
 {% include figure.html image="/intro-nail-art/assets/showcase/opi_orange_french_tips_suel2.jpg" caption="'Colorful French Tips!' by Sue L. w/ OPI /'Living On the Bula-vard!'" width="300" height="300" %}
 
