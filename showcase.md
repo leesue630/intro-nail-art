@@ -9,4 +9,8 @@ We'll update this page throughout the course to showcase student (and staff) nai
 
 Placeholder Image:
 
-{% include figure.html image="/intro-nail-art/assets/showcase/test.jpg" caption="Test image with caption" width="300" height="300" %}
+{% include figure.html image="/intro-nail-art/assets/showcase/opi_orange_french_tips_suel2.jpg" caption="'Colorful French Tips!' by Sue L. w/ OPI /'Living On the Bula-vard!'" width="300" height="300" %}
+
+{% include figure.html image="/intro-nail-art/assets/showcase/smiley_face_suel2.jpg" caption="'Pink Smiley Faces' by Sue L." width="300" height="300" %}
+
+{% include figure.html image="/intro-nail-art/assets/showcase/frick_you_brush_suel2.jpg" caption="'Frick You' by Sue L." width="300" height="300" %}
