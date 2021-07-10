@@ -84,7 +84,7 @@ Whether you heed these recommendations or not, please make sure you **research y
 - Read [here](https://www.byrdie.com/best-base-coats-4707548) for more.
 
 ##### All Nail Polishes
-- See [here](./2021-09-22-brands.md) for recommended nail polish brands.
+- See [here](/intro-nail-art/_posts/2021-09-22-brands.md) for recommended nail polish brands.
 
 ### Nail Care
 
@@ -115,7 +115,7 @@ Whether you heed these recommendations or not, please make sure you **research y
 
 ### Household Items
 
+{% include figure.html image="/intro-nail-art/assets/materials/soft-sponge.jpeg" caption="Makeup sponges" width="300" height="300" %}
+
 ##### Makeup Sponges (a.k.a. Nail Art Soft Sponge)
 - Any cheap makeup sponge will do! You can buy them in bulk online.
-
-{% include figure.html image="/intro-nail-art/assets/materials/soft-sponge.jpeg" caption="Makeup sponges" width="300" height="300" %}
