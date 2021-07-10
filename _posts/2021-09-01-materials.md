@@ -84,7 +84,7 @@ Whether you heed these recommendations or not, please make sure you **research y
 - Read [here](https://www.byrdie.com/best-base-coats-4707548) for more.
 
 ##### All Nail Polishes
-- See [here](/intro-nail-art/_posts/2021-09-22-brands.md) for recommended nail polish brands.
+- See [here](/intro-nail-art/materials/basics/2021/09/22/brands/) for recommended nail polish brands.
 
 ### Nail Care
 
