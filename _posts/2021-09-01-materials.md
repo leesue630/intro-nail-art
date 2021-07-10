@@ -52,6 +52,8 @@ See [below](#material-recommendations) for advice on what to look for when purch
 
 Here are some recommendations on specific nail products and/or general aspects to consider when shopping for your materials, whether it's for this class or beyond!
 
+{% include figure.html image="/intro-nail-art/assets/materials/nail-polishes.jpg" caption="Nail polishes" width="300" height="300" %}
+
 ### Nail Polishes
 
 *Disclaimer*: Because we did not have the budget to mass purchase nail polishes and test each one, many of these recommendations are simply summaries of online recommendations.
@@ -79,11 +81,14 @@ Whether you heed these recommendations or not, please make sure you **research y
 - Best Overall: OPI Natural Nail Base Coat ($7)
 - Best Budget: Sally Hansen Color Therapy Beautifiers Strengthening Base Coat
 - Best Quick-Dry: REVLON Quick Dry Base Coat ($10)
+- Read [here](https://www.byrdie.com/best-base-coats-4707548) for more.
 
 ##### All Nail Polishes
-- See [here](2021-09-22-brands.md) for recommended nail polish brands.
+- See [here](./2021-09-22-brands.md) for recommended nail polish brands.
 
 ### Nail Care
+
+{% include figure.html image="/intro-nail-art/assets/materials/polish-remover.png" caption="Nail polish remover" width="300" height="300" %}
 
 **Nail Polish Remover**
 - Most nail polish removers (a.k.a. acetone polish removers) found at your local drugstore or retail store will be effective at their job.
