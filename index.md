@@ -56,18 +56,23 @@ For this course, **you will need**:
 - nail art brush
 - nail polish remover
 
-You will have the choice of either 1) **paying a course fee** in exchange for **certain course materials to keep**, 2) **paying a reduced course fee** in exchange for **access to certain course materials to share**, or 3) **purchasing and providing your own materials** to use and keep.
+You will have the choice of either:
+1. **paying a course fee** in exchange for **certain course materials to keep**,
+2. **paying a reduced course fee** in exchange for **access to certain course materials to share**,
+3. or **purchasing and providing your own materials** to use and keep.
 
-Some materials will be provided by the course, regardless of whether you pay a course fee or not. It goes without saying that **you may purchase and use any materials that you wish**.
+Note:
+- Some materials will be provided by the course, regardless of whether you pay a course fee or not. It goes without saying that **you may purchase and use any materials that you wish**.
+- We expect that the opt-in course fee will range anywhere from $5 to $10+. We will send an email to registered students a couple weeks prior to the start of the semester to survey interest in the course fee.
 
-We expect that the opt-in course fee will range anywhere from $5 to $10+. We will send an email to registered students a couple weeks prior to the start of the semester to survey interest in the course fee.
-
-As of *(7/12/2021)*, we are still in the process of ironing out:
+As of *7/12/2021*, we are still in the process of ironing out:
 - the exact price(s) of the course fee,
 - what materials will be provided to all,
 - and what materials will be provided in exchange for paying the course fee.
 
 For a more comprehensive breakdown of these materials, product recommendations, and a whole lot of other optional (but fun) materials, see this [post](_posts/2021-09-01-materials.md).
+
+If you have any questions, please don't hesitate to reach out to either of us through email.
 
 ---
 
