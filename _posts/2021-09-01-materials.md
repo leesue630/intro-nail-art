@@ -16,28 +16,26 @@ See [below](#material-recommendations) for advice on what to look for when purch
 
 ### Nail Polishes
 
-- **2 colors of Nail Polish**
+- **2 colors of Nail Polish (required)**
   - We recommend white/black and an additional (fun) color
+  - *Update (7/12/2021):* We intend to provide several colors of nail polish for the course to share.
 - Top Coat Polish (*highly recommended*)
+  - *Update (7/12/2021):* We will try to get Top Coat Polish for the course as well, although the supply may be limited.
 - Base Coat Polish (*recommended*)
-
-*Update (7/12/2021):* We intend to provide several colors of nail polish for the course to share. We will try to get Top Coat Polish for the course as well, although the supply may be limited.
 
 ### Nail Care
 
-- **Nail Polish Remover**
+- **Nail Polish Remover (required)**
+  - *Update (7/12/2021):* We intend to provide nail polish remover for the course to share. You will likely not need to purchase your own if you are okay with sharing.
 - Nail File (*recommended*)
 
-*Update (7/12/2021):* We intend to provide nail polish remover for the course to share. You will likely not need to purchase your own if you are okay with sharing.
 
 ### Nail Art Tools
 
-- **1 Small Nail Art Brush**
+- **1 Small Nail Art Brush (required)**
+  - *Update (7/12/2021):* We intend to provide nail art brushes for students who pay the course fee. We may opt for DIY-trimmed art brushes in favor of lower prices. If you wish to have a brush made specifically for nail art, we recommend you purchase your own nail brush(es).
 - Nail Dotter (*optional*; alternatives include sewing/bobby pins)
-
-*Update (7/12/2021):* We intend to provide nail art brushes for students who pay the course fee. We may opt for DIY-trimmed art brushes in favor of lower prices. If you wish to have a brush made specifically for nail art, we recommend you purchase your own nail brush(es).
-
-*Update (7/12/2021):* As stated below, we intend to provide sewing pins for the course to share. Some may find nail dotting tools to be more precise or useful, in which case we recommend you purchase your own dotting tools.
+  - *Update (7/12/2021):* As stated below, we intend to provide sewing pins for the course to share. Some may find nail dotting tools to be more precise or useful, in which case we recommend you purchase your own dotting tools.
 
 ### Household Items (*provided by course*)
 
