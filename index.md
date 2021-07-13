@@ -35,8 +35,8 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Nov 24   | No class (Thanksgiving) | - |
 | Dec 1    | Fina(i)l Presentations  | - |
 
-*Disclaimer: All topics and dates are subject to change.
-*
+*Disclaimer: All topics and dates are subject to change.*
+
 {% comment %}
 | Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) |
 | Sep 8 | [French Tips](_posts/2021-09-08-french-tips.md) | [Nail Care 101](_posts/2021-10-13-nail-care.md) | )
