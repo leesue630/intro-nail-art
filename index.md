@@ -18,22 +18,22 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 
 ### Schedule
 
-| **Date** | **Main Lesson**         | **Potpourri** |
-|----------|-------------------------|---------------|
-| Sep 1    | Nail Painting 101       | Origins of Nail Art |
-| Sep 8    | French Tips             | Nail Care 101 |
-| Sep 15   | Flowers                 | Nail Art Influencers |
-| Sep 22   | Smiley Faces            | Nail Art in Pop Culture |
-| Sep 29   | Geometry                | Nail Polish Brands |
-| Oct 6    | Ombre                   | Environmental Impact |
-| Oct 13   | Mid-semester Exam       | Nail Biology |
-| Oct 20   | Stickers                | Pedicures |
-| Oct 27   | TBD                     | Gel Nail Polish |
-| Nov 3    | TBD                     | Acrylic Nail Polish |
-| Nov 10   | Tie-dye                 | Other Types of Nail Polish |
-| Nov 17   | Fina(i)l Workshop       | - |
-| Nov 24   | No class (Thanksgiving) | - |
-| Dec 1    | Fina(i)l Presentations  | - |
+| **Date** | **Main Lesson**             | **Potpourri** |
+|----------|-----------------------------|---------------|
+| Sep 1    | Nail Painting 101           | Origins of Nail Art |
+| Sep 8    | French Tips                 | Nail Care 101 |
+| Sep 15   | Flowers                     | Nail Art Influencers |
+| Sep 22   | Smiley Faces                | Nail Art in Pop Culture |
+| Sep 29   | Geometry                    | Nail Polish Brands |
+| Oct 6    | Ombre                       | Environmental Impact |
+| Oct 13   | Mid-semester Exam           | Nail Biology |
+| Oct 20   | Tie-dye nails               | Pedicures |
+| Oct 27   | Water-marbling              | Gel Nail Polish |
+| Nov 3    | Christmas Stickers          | Acrylic Nail Polish |
+| Nov 10   | Trendy Nail Art Rapid Fire  | Other Types of Nail Polish |
+| Nov 17   | Fina(i)l Workshop           | Nail Art Trends |
+| Nov 24   | No class (Thanksgiving)     | - |
+| Dec 1    | Fina(i)l Presentations      | - |
 
 *Disclaimer: All topics and dates are subject to change.*
 
