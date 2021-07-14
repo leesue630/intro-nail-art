@@ -28,10 +28,10 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Oct 6    | Ombre                       | Environmental Impact |
 | Oct 13   | Mid-semester Exam           | Nail Biology |
 | Oct 20   | Tie-dye nails               | Pedicures |
-| Oct 27   | Water-marbling              | Gel Nail Polish |
-| Nov 3    | Christmas Stickers          | Acrylic Nail Polish |
-| Nov 10   | Trendy Nail Art Rapid Fire  | Other Types of Nail Polish |
-| Nov 17   | Fina(i)l Workshop           | Nail Art Trends |
+| Oct 27   | Water-marbling              | Gel & Acrylic Nail Polish |
+| Nov 3    | Christmas Stickers          | Other Types of Nail Polish |
+| Nov 10   | Trendy Nail Art Rapid Fire  | The Salon Experience |
+| Nov 17   | Fina(i)l Workshop           | Nail Art Challenges |
 | Nov 24   | No class (Thanksgiving)     | - |
 | Dec 1    | Fina(i)l Presentations      | - |
 
