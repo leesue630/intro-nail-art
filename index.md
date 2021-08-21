@@ -63,7 +63,7 @@ For a more comprehensive breakdown of these materials, product recommendations, 
 
 **Update**: We will be providing *all necessary materials* for the class to share, thanks to a generous budget extension by the StuCo committee. In other words, there will be no course fee! 🥳
 
-However, in order to work within our limited budget, our supplies are on the cheaper end and are limited in quantity (i.e. we will have to take turns using some of the supplies).
+However, because a budget is still a budget, our supplies are on the cheaper end and are limited in quantity (i.e. we will have to take turns using some of the supplies).
 
 That being said, if you would like to use your own materials, feel free to purchase and/or bring them to class! We highly encourage it!
 
