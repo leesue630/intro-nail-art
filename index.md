@@ -54,27 +54,18 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 
 For this course, **you will need**:
 
-- two colors of nail polishes
+- at least two colors of nail polishes
 - nail art brush
+- dotting tool
 - nail polish remover
 
-You will have the choice of either:
-1. **paying a course fee** in exchange for **certain course materials to keep**,
-2. **paying a reduced course fee** in exchange for **access to certain course materials to share**,
-3. or **purchasing and providing your own materials** to use and keep.
+For a more comprehensive breakdown of these materials, product recommendations, and a whole lot of other optional (but fun) materials, see [this post](_posts/2021-09-01-materials.md).
 
-Note:
-- Some materials will be provided by the course, regardless of whether you pay a course fee or not. It goes without saying that **you may purchase and use any materials that you wish**.
-- We expect that the opt-in course fee will range anywhere from $5 to $10+. We will send an email to registered students a couple weeks prior to the start of the semester to survey interest in the course fee.
+**Update**: We will be providing *all necessary materials* for the class to share, thanks to a generous budget extension by the StuCo committee. In other words, there will be no course fee! 🥳
 
-As of *7/12/2021*, we are still in the process of ironing out:
-- the exact price(s) of the course fee,
-- what materials will be provided to all,
-- and what materials will be provided in exchange for paying the course fee.
+However, in order to work within our limited budget, our supplies are on the cheaper end and are limited in quantity (i.e. we will have to take turns using some of the supplies).
 
-For a more comprehensive breakdown of these materials, product recommendations, and a whole lot of other optional (but fun) materials, see this [post](_posts/2021-09-01-materials.md).
-
-If you have any questions, please don't hesitate to reach out to either of us through email.
+That being said, if you would like to use your own materials, feel free to purchase and/or bring them to class! We highly encourage it!
 
 ---
 
@@ -109,3 +100,11 @@ Students are expected to attend every class. Students that have more than 2 unex
 We will take attendance through in-person attendance.
 
 Religious observance, illness, job interviews, etc. are valid excuses for an excused absence.
+
+### Waitlisted Students
+
+If you are on the waitlist, unfortunately you may not attend class in person.
+
+Due to COVID-19 room capacity restrictions, we have been told to stick to allowing in-person attendance only to students who are registered for the course. Only once you get off the waitlist and become fully registered may you attend class in person.
+
+Feel free however to follow along with the material at home by checking out our weekly Google Slides presentations, which we will link in the above schedule after each class.
