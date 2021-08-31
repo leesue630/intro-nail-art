@@ -85,7 +85,7 @@ In-person attendance will be recorded every class.
 
 #### Midterm
 
-The midterm will be a multiple-choice assessment that will go over how to create various designs using the techniques and tools that we have discussed. Students will be awarded bonus points towards the midterm for volunteering to share their nails during class.
+The midterm will be a multiple-choice assessment that will go over how to create various designs using the techniques and tools that we have discussed.
 
 #### Final
 
@@ -108,3 +108,11 @@ If you are on the waitlist, unfortunately you may not attend class in person.
 Due to COVID-19 room capacity restrictions, we have been told to stick to allowing in-person attendance only to students who are registered for the course. Only once you get off the waitlist and become fully registered may you attend class in person.
 
 Feel free however to follow along with the material at home by checking out our weekly Google Slides presentations, which we will link in the above schedule after each class.
+
+### Class Discord
+
+We've spun up a Discord for more relaxed inter-class communication. We'll share the link during class, but e-mail us if you miss it and would like to join!
+
+## Course Showcase
+
+Send a message in the Discord's `#showcase` channel for your out-of-class nail art work to be shared on the website's [Showcase page](https://leesue630.github.io/intro-nail-art/showcase/)! Most showcase submissions by the end of the semester win a special prize 🤭!
