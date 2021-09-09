@@ -21,7 +21,7 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | **Date** | **Main Lesson**             | **Potpourri** |
 |----------|-----------------------------|---------------|
 | Sep 1    | [Nail Painting 101](https://docs.google.com/presentation/d/1_JINwJ1geOKon8OygPsuih_cFODCu8mKmhD7GK1AdkI/edit?usp=sharing)           | Origins of Nail Art |
-| Sep 8    | French Tips                 | Nail Care 101 |
+| Sep 8    | [French Tips](https://docs.google.com/presentation/d/1eEDvLPaUoGbpomTg97ZkAQzF6FAIcQaFMYmvzz2fDBE/edit?usp=sharing)                 | Nail Care 101 |
 | Sep 15   | Flowers                     | Nail Art Influencers |
 | Sep 22   | Smiley Faces                | Nail Art in Pop Culture |
 | Sep 29   | Geometry                    | Nail Polish Brands |
