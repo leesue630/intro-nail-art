@@ -23,7 +23,7 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Sep 1    | [Nail Painting 101](https://docs.google.com/presentation/d/1_JINwJ1geOKon8OygPsuih_cFODCu8mKmhD7GK1AdkI/edit?usp=sharing)           | Origins of Nail Art |
 | Sep 8    | [French Tips](https://docs.google.com/presentation/d/1eEDvLPaUoGbpomTg97ZkAQzF6FAIcQaFMYmvzz2fDBE/edit?usp=sharing)                 | Nail Care 101 |
 | Sep 15   | [Flowers](https://docs.google.com/presentation/d/11G7m8WyymSBHGyLlB9aRJUTdgD0-gGyEK6xc6q8Ki4Q/edit?usp=sharing)                     | Nail Art Influencers |
-| Sep 22   | Smiley Faces                | Nail Art in Pop Culture |
+| Sep 22   | [Smiley Faces](https://docs.google.com/presentation/d/1cS4URGEZypr3f0ZApUgSXRMyAKOFPa9nau556ymzb2s/edit?usp=sharing)                | Nail Art in Pop Culture |
 | Sep 29   | Geometry                    | Nail Polish Brands |
 | Oct 6    | Ombre                       | Environmental Impact |
 | Oct 13   | Mid-semester Exam           | Nail Biology |
