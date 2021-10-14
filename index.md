@@ -26,7 +26,7 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Sep 22   | [Smiley Faces](https://docs.google.com/presentation/d/1cS4URGEZypr3f0ZApUgSXRMyAKOFPa9nau556ymzb2s/edit?usp=sharing)                | Nail Art in Pop Culture |
 | Sep 29   | [Geometry](https://docs.google.com/presentation/d/1Z_7eMLB5kDKYE7E2Vt0gXx06GB60nK0AQsthI5Zbv34/edit?usp=sharing)                    | Nail Polish Brands |
 | Oct 6    | [Ombre](https://docs.google.com/presentation/d/18jsDxIXdk4X4N00Su9AUQKO_VoI7DfeVJonTCkYe394/edit?usp=sharing)                       | Environmental Impact |
-| Oct 13   | Mid-semester Exam           | Nail Biology |
+| Oct 13   | [Mid-semester Exam](https://docs.google.com/presentation/d/1v1Yl1OSsSoM3cBDk1E6Ih2WygaSxugXU3mQRoJyOPs4/edit?usp=sharing)           | Nail Biology |
 | Oct 20   | Tie-dye nails               | Pedicures |
 | Oct 27   | Water-marbling              | Gel & Acrylic Nail Polish |
 | Nov 3    | Christmas Stickers          | Other Types of Nail Polish |
