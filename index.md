@@ -18,24 +18,24 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 
 ### Schedule
 
-| **Date** | **Main Lesson**             | **Potpourri** |
-|----------|-----------------------------|---------------|
-| Sep 1    | [Nail Painting 101](https://docs.google.com/presentation/d/1_JINwJ1geOKon8OygPsuih_cFODCu8mKmhD7GK1AdkI/edit?usp=sharing)           | Origins of Nail Art |
-| Sep 8    | [French Tips](https://docs.google.com/presentation/d/1eEDvLPaUoGbpomTg97ZkAQzF6FAIcQaFMYmvzz2fDBE/edit?usp=sharing)                 | Nail Care 101 |
-| Sep 15   | [Flowers](https://docs.google.com/presentation/d/11G7m8WyymSBHGyLlB9aRJUTdgD0-gGyEK6xc6q8Ki4Q/edit?usp=sharing)                     | Nail Art Influencers |
-| Sep 22   | [Smiley Faces](https://docs.google.com/presentation/d/1cS4URGEZypr3f0ZApUgSXRMyAKOFPa9nau556ymzb2s/edit?usp=sharing)                | Nail Art in Pop Culture |
-| Sep 29   | [Geometry](https://docs.google.com/presentation/d/1Z_7eMLB5kDKYE7E2Vt0gXx06GB60nK0AQsthI5Zbv34/edit?usp=sharing)                    | Nail Polish Brands |
-| Oct 6    | [Ombre](https://docs.google.com/presentation/d/18jsDxIXdk4X4N00Su9AUQKO_VoI7DfeVJonTCkYe394/edit?usp=sharing)                       | Environmental Impact |
-| Oct 13   | [Mid-semester Exam](https://docs.google.com/presentation/d/1v1Yl1OSsSoM3cBDk1E6Ih2WygaSxugXU3mQRoJyOPs4/edit?usp=sharing)           | Nail Biology |
-| Oct 20   | Tie-dye nails               | Pedicures |
-| Oct 27   | Water-marbling              | Gel & Acrylic Nail Polish |
-| Nov 3    | Christmas Stickers          | Other Types of Nail Polish |
-| Nov 10   | Trendy Nail Art Rapid Fire  | The Salon Experience |
-| Nov 17   | Fina(i)l Workshop           | Nail Art Challenges |
-| Nov 24   | No class (Thanksgiving)     | - |
-| Dec 1    | Fina(i)l Presentations      | - |
+| **Date** | **Main Lesson**                                                                                                           | **Potpourri**              |
+| -------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| Sep 1    | [Nail Painting 101](https://docs.google.com/presentation/d/1_JINwJ1geOKon8OygPsuih_cFODCu8mKmhD7GK1AdkI/edit?usp=sharing) | Origins of Nail Art        |
+| Sep 8    | [French Tips](https://docs.google.com/presentation/d/1eEDvLPaUoGbpomTg97ZkAQzF6FAIcQaFMYmvzz2fDBE/edit?usp=sharing)       | Nail Care 101              |
+| Sep 15   | [Flowers](https://docs.google.com/presentation/d/11G7m8WyymSBHGyLlB9aRJUTdgD0-gGyEK6xc6q8Ki4Q/edit?usp=sharing)           | Nail Art Influencers       |
+| Sep 22   | [Smiley Faces](https://docs.google.com/presentation/d/1cS4URGEZypr3f0ZApUgSXRMyAKOFPa9nau556ymzb2s/edit?usp=sharing)      | Nail Art in Pop Culture    |
+| Sep 29   | [Geometry](https://docs.google.com/presentation/d/1Z_7eMLB5kDKYE7E2Vt0gXx06GB60nK0AQsthI5Zbv34/edit?usp=sharing)          | Nail Polish Brands         |
+| Oct 6    | [Ombre](https://docs.google.com/presentation/d/18jsDxIXdk4X4N00Su9AUQKO_VoI7DfeVJonTCkYe394/edit?usp=sharing)             | Environmental Impact       |
+| Oct 13   | [Mid-semester Exam](https://docs.google.com/presentation/d/1v1Yl1OSsSoM3cBDk1E6Ih2WygaSxugXU3mQRoJyOPs4/edit?usp=sharing) | Nail Biology               |
+| Oct 20   | Water-marbling                                                                                                            | Gel & Acrylic Nail Polish  |
+| Oct 27   | Halloween Nail Art                                                                                                        | Pedicures                  |
+| Nov 3    | Christmas Stickers                                                                                                        | Other Types of Nail Polish |
+| Nov 10   | Trendy Nail Art Rapid Fire                                                                                                | The Salon Experience       |
+| Nov 17   | Fina(i)l Workshop                                                                                                         | Nail Art Challenges        |
+| Nov 24   | No class (Thanksgiving)                                                                                                   | -                          |
+| Dec 1    | Fina(i)l Presentations                                                                                                    | -                          |
 
-*Disclaimer: All topics and dates are subject to change.*
+_Disclaimer: All topics and dates are subject to change._
 
 {% comment %}
 | Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) |
@@ -46,7 +46,6 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Oct 6 | [Ombre](_posts/2021-10-06-ombre.md) | [Experimental Nail Art](_posts/2021-09-29-experimental-art.md) | )
 | Oct 13 | [Tie-dye](_posts/2021-10-13-tie-dye.md) | [Non-regular Types of Nail Polish](_posts/2021-10-06-other-polishes.md) | )
 {% endcomment %}
-
 
 ---
 
@@ -61,7 +60,7 @@ For this course, **you will need**:
 
 For a more comprehensive breakdown of these materials, product recommendations, and a whole lot of other optional (but fun) materials, see [this post](_posts/2021-09-01-materials.md).
 
-**Update**: We will be providing *all necessary materials* for the class to share, thanks to a generous budget extension by the StuCo committee. In other words, there will be no course fee! 🥳
+**Update**: We will be providing _all necessary materials_ for the class to share, thanks to a generous budget extension by the StuCo committee. In other words, there will be no course fee! 🥳
 
 However, because a budget is still a budget, our supplies are on the cheaper end and are limited in quantity (i.e. we will have to take turns using some of the supplies).
 
@@ -72,10 +71,10 @@ That being said, if you would like to use your own materials, feel free to purch
 ### Grades
 
 | **Assessment** | **Percentage of Final Grade** |
-|----------------|-------------------------------|
-| Participation | 80% |
-| Midterm | 10% |
-| Final Project | 10% |
+| -------------- | ----------------------------- |
+| Participation  | 80%                           |
+| Midterm        | 10%                           |
+| Final Project  | 10%                           |
 
 ..
 
