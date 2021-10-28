@@ -28,7 +28,7 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Oct 6    | [Ombre](https://docs.google.com/presentation/d/18jsDxIXdk4X4N00Su9AUQKO_VoI7DfeVJonTCkYe394/edit?usp=sharing)                       | Environmental Impact |
 | Oct 13   | [Mid-semester Exam](https://docs.google.com/presentation/d/1v1Yl1OSsSoM3cBDk1E6Ih2WygaSxugXU3mQRoJyOPs4/edit?usp=sharing)           | Nail Biology |
 | Oct 20   | [Water-marbling](https://docs.google.com/presentation/d/1rpKigwc-gwY5wHjYkvxpRyluaeY_q5EkKJWeT-xr_5A/edit?usp=sharing)              | Gel & Acrylic Nail Polish |
-| Oct 27   | Halloween Nail Art | Pedicures |
+| Oct 27   | [Halloween Nail Art](https://docs.google.com/presentation/d/1eqGMnPevFocZ6_Jra4597YaloVZst3809SAVGK477g0/edit?usp=sharing) | Pedicures |
 | Nov 3    | Christmas Stickers          | Other Types of Nail Polish |
 | Nov 10   | Trendy Nail Art Rapid Fire  | The Salon Experience |
 | Nov 17   | Fina(i)l Workshop           | Nail Art Challenges |
