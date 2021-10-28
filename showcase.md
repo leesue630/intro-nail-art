@@ -7,6 +7,8 @@ feature_text: |
 
 A page dedicated to student (and staff) nail art excellence and creativity! Feel free to email us your nail art images to get added to this highly esteemed showcase 😊!
 
+{% include figure.html image="/intro-nail-art/assets/showcase/nail_spree_iris.jpg" caption="'Raindrop, Drop Top' by Iris P." width="300" height="300" %}
+
 {% include figure.html image="/intro-nail-art/assets/showcase/spring_flowers_layla.jpg" caption="'Friendship Blooms' by Layla M." width="300" height="300" %}
 
 {% include figure.html image="/intro-nail-art/assets/showcase/bubbly_flower_cami.jpg" caption="'Floral Ponderings' by Cami W." width="300" height="300" %}
