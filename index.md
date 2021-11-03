@@ -29,24 +29,13 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Oct 13   | [Mid-semester Exam](https://docs.google.com/presentation/d/1v1Yl1OSsSoM3cBDk1E6Ih2WygaSxugXU3mQRoJyOPs4/edit?usp=sharing)           | Nail Biology |
 | Oct 20   | [Water-marbling](https://docs.google.com/presentation/d/1rpKigwc-gwY5wHjYkvxpRyluaeY_q5EkKJWeT-xr_5A/edit?usp=sharing)              | Gel & Acrylic Nail Polish |
 | Oct 27   | [Halloween Nail Art](https://docs.google.com/presentation/d/1eqGMnPevFocZ6_Jra4597YaloVZst3809SAVGK477g0/edit?usp=sharing) | Pedicures |
-| Nov 3    | Christmas Stickers          | Other Types of Nail Polish |
-| Nov 10   | Trendy Nail Art Rapid Fire  | The Salon Experience |
+| Nov 3    | [https://docs.google.com/presentation/d/1c_GQahJYDgV2JdmL7VqzABrKUx17-r3vv7LRNI6tGYc/edit?usp=sharing]          | - |
+| Nov 10   | Christmas Stickers  | The Salon Experience |
 | Nov 17   | Fina(i)l Workshop           | Nail Art Challenges |
 | Nov 24   | No class (Thanksgiving)     | - |
 | Dec 1    | Fina(i)l Presentations      | - |
 
 *Disclaimer: All topics and dates are subject to change.*
-
-{% comment %}
-| Sep 1 | [Nail Painting 101](_posts/2021-09-01-nail-101.md) | [Origins of Nail Art](_/../_posts/2021-09-01-origins.md) |
-| Sep 8 | [French Tips](_posts/2021-09-08-french-tips.md) | [Nail Care 101](_posts/2021-10-13-nail-care.md) | )
-| Sep 15 | [Flowers](_posts/2021-09-15-flowers.md) | [Nail Art Influencers](_posts/2021-09-08-influencers.md) | )
-| Sep 22 | [Smiley Faces](_posts/2021-09-22-smiley-faces.md) | [Nail Art in Hollywood](_posts/2021-09-15-hollywood.md) | )
-| Sep 29 | [Geometry](_posts/2021-09-29-geometry.md) | [Nail Polish Brands](_posts/2021-09-22-brands.md) | )
-| Oct 6 | [Ombre](_posts/2021-10-06-ombre.md) | [Experimental Nail Art](_posts/2021-09-29-experimental-art.md) | )
-| Oct 13 | [Tie-dye](_posts/2021-10-13-tie-dye.md) | [Non-regular Types of Nail Polish](_posts/2021-10-06-other-polishes.md) | )
-{% endcomment %}
-
 
 ---
 
