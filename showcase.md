@@ -15,10 +15,10 @@ A page dedicated to student (and staff) nail art excellence and creativity! Feel
 
 {% include figure.html image="/intro-nail-art/assets/showcase/bubbly_flower_cami.jpg" caption="'Floral Ponderings' by Cami W." width="300" height="300" %}
 
-{% include figure.html image="/intro-nail-art/assets/showcase/hbd_suel2.jpg" caption="'Happy Birthday, Rita!' by Sue L." width="300" height="300" %}
+<!-- {% include figure.html image="/intro-nail-art/assets/showcase/hbd_suel2.jpg" caption="'Happy Birthday, Rita!' by Sue L." width="300" height="300" %} -->
 
 {% include figure.html image="/intro-nail-art/assets/showcase/opi_orange_french_tips_suel2.jpg" caption="'Colorful French Tips!' by Sue L. w/ OPI 'Living On the Bula-vard!'" width="300" height="300" %}
 
-{% include figure.html image="/intro-nail-art/assets/showcase/smiley_face_suel2.jpg" caption="'Pink Smiley Faces' by Sue L." width="300" height="300" %}
+<!-- {% include figure.html image="/intro-nail-art/assets/showcase/smiley_face_suel2.jpg" caption="'Pink Smiley Faces' by Sue L." width="300" height="300" %}
 
-{% include figure.html image="/intro-nail-art/assets/showcase/frick_you_brush_suel2.jpg" caption="'Frick You' by Sue L." width="300" height="300" %}
+{% include figure.html image="/intro-nail-art/assets/showcase/frick_you_brush_suel2.jpg" caption="'Frick You' by Sue L." width="300" height="300" %} -->
