@@ -29,7 +29,7 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Oct 13   | [Mid-semester Exam](https://docs.google.com/presentation/d/1v1Yl1OSsSoM3cBDk1E6Ih2WygaSxugXU3mQRoJyOPs4/edit?usp=sharing)           | Nail Biology |
 | Oct 20   | [Water-marbling](https://docs.google.com/presentation/d/1rpKigwc-gwY5wHjYkvxpRyluaeY_q5EkKJWeT-xr_5A/edit?usp=sharing)              | Gel & Acrylic Nail Polish |
 | Oct 27   | [Halloween Nail Art](https://docs.google.com/presentation/d/1eqGMnPevFocZ6_Jra4597YaloVZst3809SAVGK477g0/edit?usp=sharing) | Pedicures |
-| Nov 3    | [https://docs.google.com/presentation/d/1c_GQahJYDgV2JdmL7VqzABrKUx17-r3vv7LRNI6tGYc/edit?usp=sharing]          | - |
+| Nov 3    | [Rapid Nail Art Trends](https://docs.google.com/presentation/d/1c_GQahJYDgV2JdmL7VqzABrKUx17-r3vv7LRNI6tGYc/edit?usp=sharing)          | - |
 | Nov 10   | Christmas Stickers  | The Salon Experience |
 | Nov 17   | Fina(i)l Workshop           | Nail Art Challenges |
 | Nov 24   | No class (Thanksgiving)     | - |
