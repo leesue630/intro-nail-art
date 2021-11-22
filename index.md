@@ -32,7 +32,7 @@ Join us every Wednesday for a relaxing night of fun! 🤗
 | Nov 3    | [Rapid Nail Art Trends](https://docs.google.com/presentation/d/1c_GQahJYDgV2JdmL7VqzABrKUx17-r3vv7LRNI6tGYc/edit?usp=sharing)          | - |
 | Nov 10   | [Christmas Stickers](https://docs.google.com/presentation/d/1oYsgrXlM-OJU7-ZErWxH-9x9zVe70TLPYShv1mqElAc/edit?usp=sharing)  | The Salon Experience |
 | Nov 17   | Fina(i)l Workshop           | Nail Art Challenges |
-| Nov 24   | No class (Thanksgiving)     | - |
+| Nov 24   | [No class (Thanksgiving)](https://www.inspirahealthnetwork.org/sites/default/files/2021-03/Screenshot%202021-03-18%20114949.png)     | - |
 | Dec 1    | Fina(i)l Presentations      | - |
 
 *Disclaimer: All topics and dates are subject to change.*
